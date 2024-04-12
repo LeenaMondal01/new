@@ -1,0 +1,26 @@
+h1{
+    color: crimson;
+}
+p{
+    color: rgb(227, 17, 171);
+}
+button{
+    color: rgb(115, 18, 206);
+    background-color: rgb(54, 187, 103);
+}
+body{
+    background-color: rgb(200,200,0);
+    /*background-color: #c7d82a;*/
+}
+#headingOne{
+    color: chocolate;
+}
+#headingTwo{
+    color: rgb(193, 17, 160);
+}
+#headingThree{
+    color: forestgreen;
+}
+.myclass{
+    color: magenta;
+}
